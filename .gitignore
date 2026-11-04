@@ -1,0 +1,6 @@
+obj/
+libft/obj/
+libft/*.a
+push_swap
+*.o
+*.a
